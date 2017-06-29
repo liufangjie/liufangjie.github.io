@@ -8,18 +8,6 @@
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=1.0'}}">    
     <title>{{ site.title }} | {{ page.title }}</title>
-  </head>
-
-  <body>
-    <div class="wrapper">
-      <nav>
-        <ul></ul>
-      </nav>
-      <section>
-        {{ content }}
-      </section>
-    </div>
-
     {% if site.baidu_analytics %}
         <script>
         var _hmt = _hmt || [];
@@ -31,6 +19,17 @@
         })();
 
         </script>
-    {% endif %}
+    {% endif %}    
+  </head>
+
+  <body>
+    <div class="wrapper">
+      <nav>
+        <ul></ul>
+      </nav>
+      <section>
+        {{ content }}
+      </section>
+    </div>
   </body>
 </html>
