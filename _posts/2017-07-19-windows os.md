@@ -15,3 +15,5 @@ title: windows使用经验
 参考资料:
 [a-file-system-that-was-case-sensitive-becomes-case-insensitive-after-y](https://support.microsoft.com/en-us/help/929110/a-file-system-that-was-case-sensitive-becomes-case-insensitive-after-y)
 [how-do-you-make-windows-7-fully-case-sensitive-with-respect-to-the-filesystem](https://superuser.com/questions/266110/how-do-you-make-windows-7-fully-case-sensitive-with-respect-to-the-filesystem)
+
+上述设置目前没有生效。
