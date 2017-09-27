@@ -1,14 +1,12 @@
-mongodump \
---archive \
---gzip \
---host 106.75.59.253 \
---port 27017 \
---username caifu_openapi \
---password caifu_openapi.123 \
---authenticationDatabase caifu_openapi \
---db caifu_openapi \
- | mongorestore \
---drop \
---archive \
---gzip \
---host 127.0.0.1 \
+---
+layout: post
+title: springboot
+---
+{{ page.title }}
+================
+
+# 程序中读取classpath下的文件
+
+通过类org.springframework.core.io.ClassPathResource可以读取到springboot项目的classes目录下的文件
+即src/main/resourece/（开发环境下）| project.jar>BOOT-INF>classes(生产环境下)
+
