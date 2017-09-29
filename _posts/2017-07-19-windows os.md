@@ -17,3 +17,7 @@ title: windows使用经验
 [how-do-you-make-windows-7-fully-case-sensitive-with-respect-to-the-filesystem](https://superuser.com/questions/266110/how-do-you-make-windows-7-fully-case-sensitive-with-respect-to-the-filesystem)
 
 上述设置目前没有生效。
+
+# 查看端口占用
+
+netstat -ano | findstr {查询端口号}
