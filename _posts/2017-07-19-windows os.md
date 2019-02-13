@@ -5,6 +5,16 @@ title: windows使用经验
 {{ page.title }}
 ================
 
+# 快速拷贝文件
+
+可以使用[robocopy](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/robocopy)工具，该工具在windows server 2008及win7以后的版本默认提供
+
+[robocopy 版本](https://en.wikipedia.org/wiki/Robocopy)
+
+# 共享文件夹取消共享后锁图标不消失
+
+设置共享添加Everyone用户后图标消失，然后通过高级共享取消共享即可
+
 # 设置大小写敏感(case sensitive)
 
 修改注册表: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\kernel\obcaseinsensitive
