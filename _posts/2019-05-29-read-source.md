@@ -11,7 +11,7 @@ title: 读源码
  
 源码地址：[Properties.java](https://github.com/openjdk-mirror/jdk7u-jdk/blob/master/src/share/classes/java/util/Properties.java)
 
-Line69:`the input/output stream is encoded in ISO 8859-1 character encoding.`
+参照[Line 69](https://github.com/openjdk-mirror/jdk7u-jdk/blob/f4d80957e89a19a29bb9f9807d2a28351ed7f7df/src/share/classes/java/util/Properties.java#L69)
 
 说明通过load(inputStream)的方式加载Property文件的时候默认使用的是`ISO 8859-1`编码格式。
 
