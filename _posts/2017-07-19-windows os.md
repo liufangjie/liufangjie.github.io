@@ -5,6 +5,10 @@ title: windows使用经验
 {{ page.title }}
 ================
 
+# 查看系统默认编码格式
+
+在cmd窗口输入`[System.Text.Encoding]::Default`
+
 # 快速拷贝文件
 
 可以使用[robocopy](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/robocopy)工具，该工具在windows server 2008及win7以后的版本默认提供
