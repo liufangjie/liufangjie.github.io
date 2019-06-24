@@ -5,6 +5,12 @@ title: 日本に暮らし
 {{ page.title }}
 =============
 
+# JKK 物件を探し
+
+[南砂](https://jhomes.to-kousya.or.jp/search/jkknet/service/akiyaSenDet)
+
+
+
 # 日本語勉強する
 
 [学習団体](https://www.city.koto.lg.jp/103010/bunkasports/gakushu/kunai/6215.html)
