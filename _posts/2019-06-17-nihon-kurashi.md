@@ -5,9 +5,9 @@ title: 日本に暮らし
 {{ page.title }}
 =============
 
-# JKK 物件を探し
+# 物件を探し
 
-[南砂](https://jhomes.to-kousya.or.jp/search/jkknet/service/akiyaSenDet)
+[JKK](https://jhomes.to-kousya.or.jp/search/jkknet/service/akiyaJyoukenStartInit)
 
 
 
