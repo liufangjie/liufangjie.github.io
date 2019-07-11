@@ -5,6 +5,10 @@ title: 日本に暮らし
 {{ page.title }}
 =============
 
+# 事故物件をチェック
+
+[事故物件公示サイト](http://www.oshimaland.co.jp/)
+
 # 財布
 
 [https://cocomeister.jp/store/g/g45014021/](https://cocomeister.jp/store/g/g45014021/)
