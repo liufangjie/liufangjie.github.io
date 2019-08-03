@@ -5,6 +5,10 @@ title: 日本に暮らし
 {{ page.title }}
 =============
 
+# 事故物件をチェック
+
+[事故物件公示サイト](http://www.oshimaland.co.jp/)
+
 # 財布
 
 [https://cocomeister.jp/store/g/g45014021/](https://cocomeister.jp/store/g/g45014021/)
@@ -13,7 +17,7 @@ title: 日本に暮らし
 
 [JKK](https://jhomes.to-kousya.or.jp/search/jkknet/service/akiyaJyoukenStartInit)
 [JKK 江東区不動産会社　仲介手数料　無料](https://www.to-kousya.or.jp/chintai/campaign/room/list.html#koto)
-
+[SUUMO](https://suumo.jp/chintai/jnc_000017045662/?bc=100157124871)
 
 
 # 日本語勉強する
