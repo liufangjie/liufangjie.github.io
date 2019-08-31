@@ -5,6 +5,14 @@ title: 日本に暮らし
 {{ page.title }}
 =============
 
+# 課税
+
+[給与所得者と税](https://www.nta.go.jp/publication/pamph/koho/kurashi/html/02_1.htm)
+
+# 品牌
+
+[T恤](https://www.united-athle.jp/ua/)
+
 # 事故物件をチェック
 
 [事故物件公示サイト](http://www.oshimaland.co.jp/)
