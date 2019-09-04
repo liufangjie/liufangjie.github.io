@@ -34,4 +34,14 @@ title: windows使用经验
 
 # 查看端口占用
 
-netstat -ano | findstr {查询端口号}
+`netstat -ano | findstr {查询端口号}`
+
+上述命令输出的最后一列为pid
+
+```
+taskkill /f /pid pid
+例如：taskkill /f /pid 12345
+```
+
+参考：[https://stackoverflow.com/questions/48198/how-can-you-find-out-which-process-is-listening-on-a-port-on-windows](https://stackoverflow.com/questions/48198/how-can-you-find-out-which-process-is-listening-on-a-port-on-windows)
+
