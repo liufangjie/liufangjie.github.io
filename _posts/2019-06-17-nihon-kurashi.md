@@ -21,6 +21,8 @@ title: 日本に暮らし
 
 [https://cocomeister.jp/store/g/g45014021/](https://cocomeister.jp/store/g/g45014021/)
 
+[https://ja.bellroy.com/products/category/mens-wallets](https://ja.bellroy.com/products/category/mens-wallets)
+
 # 物件を探し
 
 [JKK](https://jhomes.to-kousya.or.jp/search/jkknet/service/akiyaJyoukenStartInit)
