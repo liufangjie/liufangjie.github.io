@@ -5,6 +5,14 @@ title: 日本に暮らし
 {{ page.title }}
 =============
 
+# 文具
+
+[https://www.isot.jp/ja-jp.html](https://www.isot.jp/ja-jp.html)
+
+# 零食
+
+[https://mognavi.jp/](https://mognavi.jp/)
+
 # 課税
 
 [給与所得者と税](https://www.nta.go.jp/publication/pamph/koho/kurashi/html/02_1.htm)
