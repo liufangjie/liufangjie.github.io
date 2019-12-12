@@ -5,6 +5,10 @@ title: 日本に暮らし
 {{ page.title }}
 =============
 
+# 出入国在留管理庁正字検索システム
+
+[出入国在留管理庁正字検索システム](http://lapse-immi.moj.go.jp:50122/)
+
 # 文具
 
 [https://www.isot.jp/ja-jp.html](https://www.isot.jp/ja-jp.html)
