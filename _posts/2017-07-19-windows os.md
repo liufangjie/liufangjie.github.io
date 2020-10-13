@@ -1,6 +1,6 @@
 ---
 layout: post
-title: windows使用经验
+title: windows
 ---
 {{ page.title }}
 ================
@@ -34,7 +34,9 @@ title: windows使用经验
 
 # 查看端口占用
 
-`netstat -ano | findstr {查询端口号}`
+```
+netstat -ano | findstr {查询端口号}
+```
 
 上述命令输出的最后一列为pid
 
