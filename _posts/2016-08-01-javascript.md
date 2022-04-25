@@ -5,6 +5,36 @@ title: javascript
 {{ page.title }}
 ================
 
+# IIFE Immediately Invoked Function Expression 即时执行函数 自执行匿名函数 
+
+IIFE 即时执行函数
+```javascript
+(function () {
+  /* ... */
+})();
+```
+
+Arrow function IIFE 表达式即时执行函数
+```javascript
+(() => {
+  /* ... */
+})();
+
+```
+
+async IIFE 异步即时执行函数
+```javascript
+(async () => {
+  /* ... */
+})();
+
+```
+
+
+
+
+[Immediately Invoked Function Expression](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)
+
 # js file md5 前端分片计算文件md5值 
 
 参照：[md5-hash-a-large-file-incrementally](https://stackoverflow.com/a/38432807)
